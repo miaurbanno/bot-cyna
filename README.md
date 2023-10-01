@@ -13,7 +13,14 @@
 
 ## Tópicos
 
-* [Falar](#falar)
+* [Sobre a CYNA](#sobre-a-cyna)
+* [Por que CYNA](#por-que-cyna)
+* [Sobre o Match!](#sobre-o-match)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Como conversar com a CYNA](#como-conversar-com-a-cyna)
+* [Converse agora com a CYNA!!](#yess)
+  
+
 
 
 
@@ -28,10 +35,17 @@
 ## Sobre a CYNA
 A CYNA é um bot criado como conlusão do primeiro módulo do Match💙 e teria o objetivo de aproximar ainda mais a editora Alta Novel de seus leitores, com informações rápidas e interessantes para que eles não necessitassem abrir o site para ver os últimos ou futuros lançamentos, ou ainda checar os horários de outros momentos com a editora como a Leitura Coletiva. 
 
-- adicionar algumas fotos do chat do telegram
-- adicionar uma foto da altinha aqui
--   - imagem do fluxo
+<div align="center">
+  <img width=250 height=250 src="https://github.com/miaurbanno/bot-match/assets/67329795/8fc3c4b9-bb4b-4308-a65b-e4a45d5a18c2">
+  <img width=250 height=250 src="https://github.com/miaurbanno/bot-match/assets/67329795/6f7b06c0-1157-4695-8e23-7a3319525263">
+  
+  <br></br>
+  
+#### Logo após o "Oii" a CYNA te recebe assim:
 
+  <img width=300 height=539 src="https://github.com/miaurbanno/bot-match/assets/67329795/fd53be94-3f89-4857-9903-3f17442b87c3">
+  <img width=300 heigth=500 src="https://github.com/miaurbanno/bot-match/assets/67329795/adec59da-a90b-4a4d-85b7-3ba04a6534cf">
+</div>
 
 <br>
 </br>
@@ -85,12 +99,23 @@ Este bot foi criado com a plataforma Weni e integrado ao Telegram com o botFathe
 Este projeto é fictício, sem real vínculo com a empresa e este é um repositório de fins ilustrativos,
 pois o projeto, infelizmente, já não está mais disponível para acesso.
 
+<br></br>
+#### PASSOS..
+
+- 1 ➡ Escaneie o QR Code abaixo ou entre [neste link](https://t.me/CYNAltinhabot) :octocat:
+<div align="center">
+<img width=250 heigth=300 src="https://github.com/miaurbanno/bot-match/assets/67329795/4d9f5a26-be0b-421a-889a-ea64675b9091">
+</div>
+
+- 2 ➡ Agora que você está com a CYNA, pode iniciar a conversa como qualquer outro bot, fique a vontade para mandar um "Oii || Hey || Olá".
+      Seja bem vinde!
+  
+<br></br>
+#### Aqui está uma amostra de uma conversa com a CYNA:
 
 <video>  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" type="video/mp4"></video>
 
 
 
-  - colocar imagens da CYNA funcionando
-- como mandar mensagem! 
-- imagens do bot
-- qr code do bot
+<br></br>
+### Yess 🥳 Este projeto está no ar novamente por mais 30 dias, disponível por este [link]().
