@@ -18,7 +18,6 @@
 * [Sobre o Match!](#sobre-o-match)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como conversar com a CYNA](#como-conversar-com-a-cyna)
-* [Converse agora com a CYNA!!](#yess)
   
 
 
@@ -83,6 +82,16 @@ Este bot foi criado com a plataforma Weni e integrado ao Telegram com o botFathe
 <div align="center">
    <img atl="Descrição da imagem: Imagem com fundo azul claro, centralizado está um símbolo que se parecem com ondas e alguns pontos entre elas, e do lado o nome da empresa,  Weni" src="https://github.com/miaurbanno/bot-match/assets/67329795/c22dd2fd-0119-4b81-8c6f-ce5675b29c55">
    <img alt="Imagem com fundo branco, um círculo azul com partes cortadas, na frente está uma ilustração meio robótica que lembra o Poderoso Chefão, ele segura um celular e no meio de sua blusa branca sai um carro antigo vindo em direção ao texto em azul abaixo da imagem, texto diz: The BotFater. Esta é a capa do bot Father no Telegram." width=200 height=200 src="https://github.com/miaurbanno/bot-match/assets/67329795/ffc87f62-3541-42ad-9f0f-a07f4eb2a65f">
+
+<br>
+</br>
+<div align="center">
+  🖤💛🖤
+</div>
+<br>
+</br>
+
+   <img alt="Quadro branco com um enorme fluxo de quadradados menores unidos por setas" src="https://github.com/miaurbanno/bot-match/assets/67329795/6cf17d68-760c-4f43-8815-4a37b5a52dd4">
 </div>
 
 <br>
@@ -96,7 +105,7 @@ Este bot foi criado com a plataforma Weni e integrado ao Telegram com o botFathe
 ## Como conversar com a CYNA
 
 ### ⚠️ Atenção ⚠️
-Este projeto é fictício, sem real vínculo com a empresa e este é um repositório de fins ilustrativos,
+Este projeto é fictício, sem real vínculo com a empresa e este é um repositório para fins ilustrativos,
 pois o projeto, infelizmente, já não está mais disponível para acesso.
 
 <br></br>
@@ -113,9 +122,8 @@ pois o projeto, infelizmente, já não está mais disponível para acesso.
 <br></br>
 #### Aqui está uma amostra de uma conversa com a CYNA:
 
-<video>  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" type="video/mp4"></video>
+<div align="center">
+<video src="https://github.com/miaurbanno/bot-match/assets/67329795/99e331c6-f3c1-421f-8e76-0db47115f588">  
+</div>
 
 
-
-<br></br>
-### Yess 🥳 Este projeto está no ar novamente por mais 30 dias, disponível por este [link]().
